@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005553707293",
+    "project_id": "messageme-app-100fc",
+    "storage_bucket": "messageme-app-100fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005553707293:android:8fc3821175a9c830c2d9f4",
+        "android_client_info": {
+          "package_name": "at.ghazi.massageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005553707293-hr5pmsi2rvdes8df5t4mf9kggm5o7au8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiIm66XzpH1PRUh1bmTOCzBHTWsOpyWhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005553707293-hr5pmsi2rvdes8df5t4mf9kggm5o7au8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
